@@ -1,5 +1,7 @@
+<!-- Creazione componente Header -->
 <template>
   <div>
+    <!-- Creazione  -->
     <div class="d-flex container justify-content-between align-items-center py-4">
       <img src="../../public/img/dc-logo.png" alt="">
       <ul class="d-flex gap-4 w-75 text-uppercase fw-bold">

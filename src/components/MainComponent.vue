@@ -38,8 +38,10 @@
     </div>
   </main>
 </template>
-
+     
+<!-- dati della card  -->
 <script>
+
 import CardsComponent from './CardsComponent.vue';
 import { comics } from '../data/dc-comics';
 
