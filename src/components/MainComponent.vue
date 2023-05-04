@@ -1,6 +1,9 @@
+<!-- Creazione componente Main -->
 <template>
   <main>
     <div class="bg-dark p-4">
+
+      <!-- dati della card  -->
       <div class="container py-5 d-flex flex-wrap gap-5">
         <CardsComponent v-for="(card, index) in data" :key="index" :data="card" />
       </div>
@@ -9,6 +12,8 @@
       <div class="container">
         <ul class="d-flex align-items-center p-5 text-white text-uppercase gap-3">
           <li>
+            <!-- carico immagini -->
+
             <img src="../../public/img/buy-comics-digital-comics.png" alt="" class="pe-3">
             <span>Digital comics</span>
           </li>
