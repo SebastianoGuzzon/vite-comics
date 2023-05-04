@@ -32,7 +32,7 @@ li {
     display: block;
     content: '';
     width: 100%;
-    height: 235%;
+    height: 230%;
     border-bottom: 4px solid transparent;
   }
 
