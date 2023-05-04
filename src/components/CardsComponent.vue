@@ -1,5 +1,3 @@
-<!-- Creazione componente Card -->
-
 <template>
   <div class="dc-card">
     <img :src="data.thumb" :alt="data.type">

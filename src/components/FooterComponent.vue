@@ -1,4 +1,3 @@
-<!-- Creazione componente Footer-->
 <template>
   <footer>
     <div class="footer-up">
