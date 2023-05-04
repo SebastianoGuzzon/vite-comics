@@ -5,3 +5,17 @@ Per oggi diamo priorità alla struttura: quando è tutto bello solido, passiamo 
 
 **Bonus:**
 Creare un componente aggiuntivo per gestire la fascia azzurra con le icone
+
+
+Steps:
+- Creo la cartella con PowerShell;
+- Cancello gli stili e in App.vue creo un template, uno script e uno style;
+- Creo un header.vue, un main.vue e un footer.vue e li importo in App.vue;
+- Creo un menu con la lista delle navbar;
+- Faccio un ciclo for per stamparle in pagina;
+- Creo un contenitore per il jumbotron e metto lo metto come background;
+- Creo un contenitore per le cards;
+- Importo il json e le cards nel main;
+- Faccio un props per prendere dal json solo i due dati che mi interessano;
+- Faccio un ciclo for per stampare le card in pagina;
+- Faccio i bottoni;
