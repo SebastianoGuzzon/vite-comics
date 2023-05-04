@@ -1,10 +1,9 @@
-import {
-  createApp
+@import "bootstrap/scss/bootstrap";
+
+ul {
+  margin: 0px;
 }
 
-from 'vue'
-import App from './App.vue'
-
-//import './assets/main.css'
-
-createApp(App).mount('#app')
+li {
+  list-style: none;
+}
